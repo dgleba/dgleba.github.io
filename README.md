@@ -2,7 +2,7 @@
 
 # David Gleba
 
-I used the closed issue https://github.com/barryclark/jekyll-now/pull/1148 to fix nested code block when it should not be nested issue. I don't understand why tha PR was simply closed without being merged.
+I used the closed PR https://github.com/barryclark/jekyll-now/pull/1148 to fix `nested code block when it should not be nested` issue. I don't understand why that PR was simply closed without being merged or even explained why it was closed with no action.
 
 
 ______
